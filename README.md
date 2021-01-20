@@ -14,7 +14,7 @@
 
 ## Projeto da UNIDADE I
 
-### [Descrição do experimento](http://nbviewer.jupyter.org/github/vicentesousa/DCO2004/blob/master/h00_VM.ipynb)
+### [Descrição do experimento](http://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2020_2/blob/master/h03_matlab.ipynb)
 
 **Objetivos:**
 - Fazer uma breve revisão sobre amostragem e a consequência de seu valor na reconstrução de um sinal amostrado;
