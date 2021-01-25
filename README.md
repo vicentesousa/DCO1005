@@ -1,5 +1,15 @@
 # DCO1005 - PRINCÍPIOS DE TELECOMUNICAÇÕES - 2020.2 - Projetos
 
+## O que devemos saber para começar a programar com Matlab
+### [Link via Github](https://github.com/vicentesousa/DCO1005_2020_2/blob/main/h01_matlab.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2020_2/blob/main/h01_matlab.ipynb)
+
+**Objetivos**
+- Apresentar vantagens de usar o Matlab 
+- Apresentar onde encontrar informações sobre o Matlab
+- Apresentar operações básicas com o Matlab
+- Apresentar o processo de Debug (depuração) no Matlab e no Python 3
+- Entender como é vantajoso a programação matricial com Matlab
+
 # UNIDADE I
 
 ## Hands-on 01: Visualização de sinais no tempo (vendo e ouvindo um sinal)
