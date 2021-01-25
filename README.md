@@ -7,7 +7,7 @@
 - Apresentar vantagens de usar o Matlab 
 - Apresentar onde encontrar informações sobre o Matlab
 - Apresentar operações básicas com o Matlab
-- Apresentar o processo de Debug (depuração) no Matlab e no Python 3
+- Apresentar o processo de Debug (depuração) no Matlab
 - Entender como é vantajoso a programação matricial com Matlab
 
 # UNIDADE I
