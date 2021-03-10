@@ -40,7 +40,7 @@ Apresentar o processo de Debug (depuração) no Python 3
 
 ### [Link via Github](https://github.com/vicentesousa/DCO1005_2020_2/blob/main/h03_matlab.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2020_2/blob/main/h03_matlab.ipynb)
 
-### [Link via Github (em Python)](https://github.com/vicentesousa/DCO1005_2020_2/blob/main/h03_python.ipynb) - [Link alternativo via nbviewer (em Python)](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2020_2/blob/main/h03_python.ipynb)
+### [Link via Github (em Python)](https://github.com/vicentesousa/DCO1005_2020_2/blob/main/h03_python.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2020_2/blob/main/h03_python.ipynb)
 
 **Objetivos:**
 - Fazer uma breve revisão sobre amostragem e a consequência de seu valor na reconstrução de um sinal amostrado;
