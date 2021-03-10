@@ -46,3 +46,16 @@ Apresentar o processo de Debug (depuração) no Python 3
 - Fazer uma breve revisão sobre amostragem e a consequência de seu valor na reconstrução de um sinal amostrado;
 - Visualização do conteúdo em frequência (single ou double sided) de um sinal;
 - Manipular sinais gravados em arquivos e estimar suas componentes de frequência e fase.
+
+
+# UNIDADE II
+
+## Hands-on 01: Modulação Analógica (AM-DSB, AM-DSB-SC, AM-SSB, QAM)
+### [Hands-on e descrição do projeto]
+(https://github.com/vicentesousa/DCO1005_2020_2/blob/main/h05.ipynb) - [Link alternativo via nbviewer (em Python)](http://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2020_2/blob/master/h05.ipynb) 
+
+### Objetivos
+- Fazer uma breve revisão sobre modulação de onda contínua AM (banda-passante);
+- Fazer uma breve revisão sobre demodulação de onda contínua AM (banda-passante);
+- Fazer uma breve revisão sobre modulação em quadratura;
+- Praticar com protótipos em Matlab e Python de moduladores AM-DSB, AM-DSB-SC, AM-SSB, QAM.
