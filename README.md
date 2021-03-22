@@ -59,3 +59,5 @@ Apresentar o processo de Debug (depuração) no Python 3
 - Fazer uma breve revisão sobre demodulação de onda contínua AM (banda-passante);
 - Fazer uma breve revisão sobre modulação em quadratura;
 - Praticar com protótipos em Matlab e Python de moduladores AM-DSB, AM-DSB-SC, AM-SSB, QAM.
+
+**Descrição da entrega:** Além de enviar o código pelo SIGAA, a entrega só será completa se você gravar um vídeo de até 5 minutos explicando seu código e mostrando seus funcionamento. O link para o vídeo deve ser colocado junto com o código em um arquivo .txt compartilhado o link do youtube. Um relatório curto (optativo) de 2 páginas pode ser feito para apresentar o trabalho.
