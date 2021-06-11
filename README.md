@@ -1,4 +1,4 @@
-# DCO1005 - PRINCÍPIOS DE TELECOMUNICAÇÕES - 2021.1 - Projetos
+# DCO1005 - PRINCÍPIOS DE TELECOMUNICAÇÕES - 2020.2 - Projetos
 
 ## O que devemos saber para começar a programar com Matlab
 ### [Link via Github](https://github.com/vicentesousa/DCO1005_2020_2/blob/main/h01_matlab.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2020_2/blob/main/h01_matlab.ipynb)
