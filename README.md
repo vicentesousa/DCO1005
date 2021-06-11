@@ -49,6 +49,9 @@
 - Visualização do conteúdo em frequência (single ou double sided) de um sinal;
 - Manipular sinais gravados em arquivos e estimar suas componentes de frequência e fase.
 
+**Prazo de Entrega:** 
+- 08/07/2021 
+
 <!--
 # UNIDADE II
 
