@@ -1,5 +1,5 @@
 # DCO1005 - PRINCÍPIOS DE TELECOMUNICAÇÕES - 2021.2 - UFRN  Projetos
-## Docente: Vicente Angelo de Sousa Junior
+- Docente: Vicente Angelo de Sousa Junior
 
 
 ## O que devemos saber para começar a programar com Matlab
