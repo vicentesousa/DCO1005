@@ -1,7 +1,7 @@
-# DCO1005 - PRINCÍPIOS DE TELECOMUNICAÇÕES - 2020.2 - Projetos
+# DCO1005 - PRINCÍPIOS DE TELECOMUNICAÇÕES - 2021.2 - Projetos
 
 ## O que devemos saber para começar a programar com Matlab
-### [Link via Github](https://github.com/vicentesousa/DCO1005_2020_2/blob/main/h01_matlab.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2020_2/blob/main/h01_matlab.ipynb)
+### [Link via Github](https://github.com/vicentesousa/DCO1005_2021_1/blob/main/h01_matlab.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2021_1/blob/main/h01_matlab.ipynb)
 
 **Objetivos**
 - Apresentar vantagens de usar o Matlab 
@@ -11,7 +11,7 @@
 - Entender como é vantajoso a programação matricial com Matlab
 
 ## O que devemos saber para começar a programar com Python 3 (para quem quiser fazer em Python)
-### [Link via Github](https://github.com/vicentesousa/DCO1005_2020_2/blob/main/h01_python.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2020_2/blob/main/h01_python.ipynb)
+### [Link via Github](https://github.com/vicentesousa/DCO1005_2021_1/blob/main/h01_python.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2021_1/blob/main/h01_python.ipynb)
 
 **Objetivos**
 - Apresentar vantagens de usar o Python3
@@ -24,9 +24,9 @@
 
 ## Hands-on 01: Visualização de sinais no tempo (vendo e ouvindo um sinal)
 
-### [Link via Github](https://github.com/vicentesousa/DCO1005_2020_2/blob/main/h02_matlab.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2020_2/blob/main/h02_matlab.ipynb)
+### [Link via Github](https://github.com/vicentesousa/DCO1005_2021_1/blob/main/h02_matlab.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2021_1/blob/main/h02_matlab.ipynb)
 
-### [Link via Github (em Python)](https://github.com/vicentesousa/DCO1005_2020_2/blob/main/h02_python.ipynb) - [Link alternativo via nbviewer (em Python)](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2020_2/blob/main/h02_python.ipynb)
+### [Link via Github (em Python)](https://github.com/vicentesousa/DCO1005_2021_1/blob/main/h02_python.ipynb) - [Link alternativo via nbviewer (em Python)](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2021_1/blob/main/h02_python.ipynb)
 
 
 ### Objetivos
@@ -37,9 +37,9 @@
 
 ## Projeto da UNIDADE I
 
-### [Link via Github](https://github.com/vicentesousa/DCO1005_2020_2/blob/main/h03_matlab.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2020_2/blob/main/h03_matlab.ipynb)
+### [Link via Github](https://github.com/vicentesousa/DCO1005_2021_1/blob/main/h03_matlab.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2021_1/blob/main/h03_matlab.ipynb)
 
-### [Link via Github (em Python)](https://github.com/vicentesousa/DCO1005_2020_2/blob/main/h03_python.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2020_2/blob/main/h03_python.ipynb)
+### [Link via Github (em Python)](https://github.com/vicentesousa/DCO1005_2021_1/blob/main/h03_python.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2021_1/blob/main/h03_python.ipynb)
 
 **Objetivos:**
 - Fazer uma breve revisão sobre amostragem e a consequência de seu valor na reconstrução de um sinal amostrado;
@@ -47,12 +47,11 @@
 - Manipular sinais gravados em arquivos e estimar suas componentes de frequência e fase.
 
 
-
 # UNIDADE II
 
 ## Hands-on 01: Modulação Analógica (AM-DSB, AM-DSB-SC, AM-SSB, QAM)
 ### [Hands-on e descrição do projeto]
-### [Link via Github](https://github.com/vicentesousa/DCO1005_2020_2/blob/main/h05.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2020_2/blob/main/h05.ipynb) 
+### [Link via Github](https://github.com/vicentesousa/DCO1005_2021_1/blob/main/h05.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2021_1/blob/main/h05.ipynb) 
 
 ### Objetivos
 - Fazer uma breve revisão sobre modulação de onda contínua AM (banda-passante);
