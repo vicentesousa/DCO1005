@@ -46,7 +46,7 @@
 - Visualização do conteúdo em frequência (single ou double sided) de um sinal;
 - Manipular sinais gravados em arquivos e estimar suas componentes de frequência e fase.
 
-<--
+
 
 # UNIDADE II
 
@@ -62,4 +62,4 @@
 
 **Descrição da entrega:** Além de enviar o código pelo SIGAA, a entrega só será completa se você gravar um vídeo de até 5 minutos explicando seu código e mostrando seus funcionamento. O link para o vídeo deve ser colocado junto com o código em um arquivo .txt compartilhado o link do youtube. Um relatório curto (optativo) de 2 páginas pode ser feito para apresentar o trabalho.
 
--->
+
