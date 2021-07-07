@@ -49,7 +49,7 @@
 - Visualização do conteúdo em frequência (single ou double sided) de um sinal;
 - Manipular sinais gravados em arquivos e estimar suas componentes de frequência e fase.
 
-** Entregas: **
+**Entregas:**
 - As entregas estão especificadas no hands-on;
 - Além de enviar o código pelo SIGAA, a entrega só será completa se você gravar um vídeo de até 5 minutos explicando seu código e mostrando os valores estimados;
 - 
