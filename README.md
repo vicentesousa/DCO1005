@@ -80,5 +80,5 @@
 **Descrição da entrega:** Além de enviar o código pelo SIGAA, a entrega só será completa se você gravar um vídeo de até 5 minutos explicando seu código e mostrando seus funcionamento. O link para o vídeo deve ser colocado junto com o código em um arquivo .txt compartilhado o link do youtube. 
 
 **Prazo de Entrega:** 
-- 17/08/2021 
+- 10/08/2021 
 
