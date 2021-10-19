@@ -2,7 +2,7 @@
 - Período: 2021.2
 - Docente: Vicente Angelo de Sousa Junior
 - Alvo do repositório: projetos estracurriculares da disciplina
-<!--
+
 ## O que devemos saber para começar a programar com Matlab
 ### [Link via Github](https://github.com/vicentesousa/DCO1005_2021_1/blob/main/h01_matlab.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005_2021_1/blob/main/h01_matlab.ipynb)
 
@@ -62,9 +62,10 @@
 - Um vídeo de até 5 minutos deve conter o conteúdo da entrega.
 
 **Prazo de Entrega:** 
-- 08/07/2021 
+- Será informado no SIGAA.
 
--->
+<!--
+
 # UNIDADE II
 
 ## Hands-on 01: Modulação Analógica (AM-DSB, AM-DSB-SC, AM-SSB, QAM)
@@ -82,3 +83,4 @@
 **Prazo de Entrega:** 
 - 10/08/2021 
 
+-->
