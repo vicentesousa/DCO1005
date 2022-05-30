@@ -3,7 +3,7 @@
 - Período: 2022.1
 - Docente: Vicente Angelo de Sousa Junior
 - Alvo do repositório: projetos extracurriculares da disciplina
-
+<!--
 ## O que devemos saber para começar a programar com Matlab
 ### [Link via Github](https://github.com/vicentesousa/DCO1005/blob/main/h01_matlab.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005/blob/main/h01_matlab.ipynb)
 
@@ -64,8 +64,8 @@
 
 **Prazo de Entrega:** 
 - Será informado no SIGAA.
+-->
 
-<!--
 
 # UNIDADE II
 
@@ -82,6 +82,6 @@
 **Descrição da entrega:** Além de enviar o código pelo SIGAA, a entrega só será completa se você gravar um vídeo de até 5 minutos explicando seu código e mostrando seus funcionamento. O link para o vídeo deve ser colocado junto com o código em um arquivo .txt compartilhado o link do youtube. 
 
 **Prazo de Entrega:** 
-- 10/08/2021 
+- Será informado no SIGAA.
 
--->
+
