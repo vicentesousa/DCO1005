@@ -41,7 +41,7 @@
 
 ## Projeto da UNIDADE I
 
-### [Link via Github](https://github.com/vicentesousa/DCO1005/blob/main/h03_matlab.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005/blob/main/h03_matlab.ipynb)
+### [Link via Github (em Matlab)](https://github.com/vicentesousa/DCO1005/blob/main/h03_matlab.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005/blob/main/h03_matlab.ipynb)
 
 ### [Link via Github (em Python)](https://github.com/vicentesousa/DCO1005/blob/main/h03_python.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005/blob/main/h03_python.ipynb)
 
