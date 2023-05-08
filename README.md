@@ -28,7 +28,7 @@
 
 ## Hands-on 01: Visualização de sinais no tempo (vendo e ouvindo um sinal)
 
-### [Link via Github](https://github.com/vicentesousa/DCO1005/blob/main/h02_matlab.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005/blob/main/h02_matlab.ipynb)
+### [Link via Github (em Matlab)](https://github.com/vicentesousa/DCO1005/blob/main/h02_matlab.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005/blob/main/h02_matlab.ipynb)
 
 ### [Link via Github (em Python)](https://github.com/vicentesousa/DCO1005/blob/main/h02_python.ipynb) - [Link alternativo via nbviewer (em Python)](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005/blob/main/h02_python.ipynb)
 
