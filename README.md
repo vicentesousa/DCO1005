@@ -54,7 +54,7 @@
 **Entregas:**
 - As entregas estão especificadas no hands-on;
 - Além de enviar o código pelo SIGAA, a entrega só será completa se você gravar um vídeo de até 5 minutos explicando seu código e mostrando os valores estimados;
-- O link para o vídeo deve ser compartilhado no youtube (de forma privada) para o prof. Vicente Sousa pelo e-mail vicente.sousa@ufrn.edu.br.
+- O link para o vídeo deve ser compartilhado no youtube (de forma privada) para o prof. Vicente Sousa pelo e-mail vicente.sousa@ufrn.br.
 - As entregas estão especificadas ao longo do Hands-on;
 - As entregas devem compor um único arquivo **zip** com os códigos e o arquivo chamado README.txt; 
 - O arquivo chamado README.txt indica como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados);
