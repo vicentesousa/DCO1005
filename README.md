@@ -1,6 +1,6 @@
 
 # DCO1005 - PRINCÍPIOS DE TELECOMUNICAÇÕES (UFRN)
-- Período: 2023.1
+- Período: 2024.1
 - Docente: Vicente Angelo de Sousa Junior
 - Alvo do repositório: projetos extracurriculares da disciplina
 
