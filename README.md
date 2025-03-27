@@ -1,10 +1,9 @@
 
 # DCO1005 - PRINCÍPIOS DE TELECOMUNICAÇÕES (UFRN)
-- Período: 2024.1
+- Período: 2025.1
 - Docente: Vicente Angelo de Sousa Junior
 - Alvo do repositório: projetos extracurriculares da disciplina
 
-<!--
 ## O que devemos saber para começar a programar com Matlab
 ### [Link via Github](https://github.com/vicentesousa/DCO1005/blob/main/h01_matlab.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005/blob/main/h01_matlab.ipynb)
 
@@ -64,7 +63,8 @@
 **Prazo de Entrega:** 
 - Será informado no SIGAA.
 
--->
+
+<!--
 
 # UNIDADE II
 
@@ -84,4 +84,4 @@
 - Será informado no SIGAA.
 
 
-
+-->
