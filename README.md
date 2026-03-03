@@ -4,8 +4,7 @@
 - Docente: Vicente Angelo de Sousa Junior
 - Alvo do repositório: projetos extracurriculares da disciplina
 
-<!--
-## O que devemos saber para começar a programar com Matlab
+## O que é bom saber para começar a programar com Matlab
 ### [Link via Github](https://github.com/vicentesousa/DCO1005/blob/main/h01_matlab.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005/blob/main/h01_matlab.ipynb)
 
 **Objetivos**
@@ -15,7 +14,7 @@
 - Apresentar o processo de Debug (depuração) no Matlab
 - Entender como é vantajoso a programação matricial com Matlab
 
-## O que devemos saber para começar a programar com Python 3 (para quem quiser fazer em Python)
+## O que é bom saber para começar a programar com Python 3 (para quem quiser fazer em Python)
 ### [Link via Github](https://github.com/vicentesousa/DCO1005/blob/main/h01_python.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005/blob/main/h01_python.ipynb)
 
 **Objetivos**
@@ -27,7 +26,7 @@
 
 # UNIDADE I
 
-## Hands-on 01: Visualização de sinais no tempo (vendo e ouvindo um sinal)
+## Hands-on 01 (somente para exercitar): Visualização de sinais no tempo (vendo e ouvindo um sinal)
 
 ### [Link via Github (em Matlab)](https://github.com/vicentesousa/DCO1005/blob/main/h02_matlab.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005/blob/main/h02_matlab.ipynb)
 
@@ -40,7 +39,7 @@
 - Praticar geração e plotagem de sinais de áudio;
 - Praticar abertura e plotagem de arquivos de áudio.
 
-## Projeto da UNIDADE I
+## Projeto da UNIDADE I (para entregar)
 
 ### [Link via Github (em Matlab)](https://github.com/vicentesousa/DCO1005/blob/main/h03_matlab.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005/blob/main/h03_matlab.ipynb)
 
@@ -64,8 +63,8 @@
 **Prazo de Entrega:** 
 - Será informado no SIGAA.
 
+<!--
 
--->
 
 # UNIDADE II
 
@@ -83,4 +82,6 @@
 
 **Prazo de Entrega:** 
 - Será informado no SIGAA.
+
+-->
 
