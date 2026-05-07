@@ -79,10 +79,10 @@
 - Fazer uma breve revisão sobre modulação em quadratura;
 - Praticar com protótipos em Matlab e Python de moduladores AM-DSB, AM-DSB-SC, AM-SSB, QAM.
 
-**Descrição da entrega:** Além de enviar o código pelo SIGAA, a entrega só será completa se você gravar um vídeo de até 5 minutos explicando seu código e mostrando seus funcionamento. O link para o vídeo deve ser colocado junto com o código em um arquivo .txt compartilhado o link do youtube. 
+**Descrição da entrega:** Além de enviar o código pelo SIGAA, a entrega só será considerada completa se você gravar um vídeo de até 5 minutos explicando seu código e demonstrando seu funcionamento. O link para o vídeo deve ser colocado junto com o código em um arquivo .txt compartilhado o link do youtube. 
 
 **Prazo de Entrega:** 
 - Será informado no SIGAA.
 
--->
+
 
