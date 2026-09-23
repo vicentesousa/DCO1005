@@ -63,7 +63,7 @@
 **Prazo de Entrega:** 
 - Será informado no SIGAA.
 
-<!--
+
 # UNIDADE II
 
 ## Hands-on 01: Modulação Analógica (AM-DSB, AM-DSB-SC, AM-SSB, QAM)
@@ -80,6 +80,6 @@
 
 **Prazo de Entrega:** 
 - Será informado no SIGAA.
--->
+
 
 
